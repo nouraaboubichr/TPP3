@@ -149,10 +149,10 @@ Utilisé uniquement sur `Utilisateur.reservations`. Quand une réservation est r
 
 ## Résultat attendu (extrait console)
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 000924.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001740.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 000934.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001747.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 000950.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001754.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 000958.png" />
+
